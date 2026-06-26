@@ -9,7 +9,7 @@ NCP, GCP 등 클라우드 환경에서 직접 인프라를 구축하고 운영�
 ## 📁 Projects
 | 프로젝트 | 설명 | 기술 스택 |
 |---|---|---|
-| Stylink (졸업프로젝트) | 미용 스타일리스트 매칭 플랫폼 - 클라우드 인프라 담당 | NCP, Docker, Nginx, CI/CD |
+| Stylink | 미용 스타일리스트 매칭 플랫폼 - 클라우드 인프라 담당 | NCP, Docker, Nginx, CI/CD |
 | [레시피 검색 사이트](https://github.com/gwoo02/recipe-search) | 재료 기반 레시피 통합 검색 서비스 | Flask, Elasticsearch, GCP |
 | [OTT 스트리밍 서버](https://github.com/gwoo02/OTT-Server) | C 언어 기반 HTTPS 스트리밍 서버 | C, OpenSSL, pthread |
 | [YOLOv8 과일 탐지](https://github.com/gwoo02/fruit-detection-yolov8) | 객체 탐지 모델 파인튜닝 | Python, YOLOv8, albumentations |
